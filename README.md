@@ -1,61 +1,93 @@
-# Hi, I'm Kawser Islam Shourov
+<h1 align="center">Kawser Islam Shourov</h1>
 
-I am a full stack web developer focused on building clean, responsive, and user-friendly websites and web applications. My main work includes WordPress development, Elementor website design, frontend development, backend work, website customization, and bug fixing.
+<p align="center">
+  <em>Full Stack Web Developer — crafting clean, responsive, and user-friendly web experiences.</em>
+</p>
 
-## About Me
+<p align="center">
+  <a href="https://www.kawsershourov.com/">
+    <img src="https://img.shields.io/badge/Website-kawsershourov.com-1a1a1a?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/kawsershourov">
+    <img src="https://img.shields.io/badge/GitHub-kawsershourov-1a1a1a?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-- Full stack web developer with practical experience in frontend and backend development
-- Strong in WordPress development, website design, and customization
+---
+
+### About Me
+
+I am a full stack web developer focused on building websites and web applications that are simple, fast, and useful. My work spans WordPress development, Elementor website design, frontend implementation, and backend functionality with PHP and Laravel — along with the everyday craft of customization, troubleshooting, and bug fixing.
+
+- Practical experience across both frontend and backend development
+- Strong foundation in WordPress development, design, and customization
 - Skilled in Elementor website building and responsive layout design
-- Laravel for backend development
-- fixing website bugs, layout issues, and application problems
-- Focused on building websites and web applications that are simple, fast, and useful
+- Backend development with PHP and Laravel
+- Comfortable resolving layout issues, bugs, and application problems
 
-## Skills
+---
 
-- WordPress Development
-- Elementor Website Design
-- WordPress Customization
-- Website Bug Fixing
-- Laravel
-- PHP
-- MySQL
-- HTML
-- CSS
-- Bootstrap
-- JavaScript With Framwork
-- Responsive Web Design
-- Git and GitHub
+### Tech Stack
 
-## What I Work On
+**Languages**
 
-- Business websites
-- Ecommarce Development
-- Landing pages
-- Portfolio websites
-- Full stack web applications
-- WordPress setup and customization
-- Elementor page design
-- Backend features with PHP and Laravel
-- Website bug fixing and troubleshooting
-- Frontend UI implementation
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## Featured Project Areas
+**Frameworks & Platforms**
 
-My GitHub repositories include frontend practice projects, landing page designs, and PHP or Laravel-based work. Some projects show my learning and coding practice, while my professional focus includes full stack web development, WordPress development, Elementor design, backend functionality, and fixing real website problems.
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
 
-## Current Focus
+**Database & Tools**
 
-- Improving WordPress development workflow
-- Building better Elementor-based websites
-- Strengthening Laravel, PHP, and JavaScript skills
-- Creating more polished portfolio-quality projects
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Connect With Me
+---
 
-- GitHub: https://github.com/kawsershourov
-- Website: https://www.kawsershourov.com/
+### What I Build
 
-## Profile Summary
+| Focus | Description |
+| --- | --- |
+| **Business & Landing Pages** | Clean, conversion-focused websites built for clarity and speed |
+| **E-commerce** | Online stores with reliable, maintainable functionality |
+| **Portfolio Websites** | Polished, responsive showcases tailored to the client |
+| **Web Applications** | Full stack features powered by PHP and Laravel |
+| **WordPress & Elementor** | Setup, customization, and pixel-aware page design |
+| **Maintenance & Fixes** | Bug fixing, layout repair, and troubleshooting |
 
-I am a full stack web developer with skills in WordPress, Elementor, PHP, MySQL, JavaScript, and Laravel. I build and improve websites with a focus on responsive design, backend functionality, customization, and bug fixing.
+---
+
+### Current Focus
+
+- Refining my WordPress development workflow
+- Building better, more maintainable Elementor-based websites
+- Strengthening my Laravel, PHP, and JavaScript foundations
+- Creating polished, portfolio-quality projects
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kawsershourov&show_icons=true&hide_border=true&title_color=1a1a1a&icon_color=1a1a1a&text_color=333333&bg_color=ffffff" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsershourov&layout=compact&hide_border=true&title_color=1a1a1a&text_color=333333&bg_color=ffffff" alt="Top Languages" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.kawsershourov.com/">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/kawsershourov">GitHub</a>
+</p>
+
+<p align="center">
+  <sub>Building and improving websites with a focus on responsive design, backend functionality, and clean execution.</sub>
+</p>
