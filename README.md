@@ -7,8 +7,8 @@ I am a full stack web developer focused on building clean, responsive, and user-
 - Full stack web developer with practical experience in frontend and backend development
 - Strong in WordPress development, website design, and customization
 - Skilled in Elementor website building and responsive layout design
-- Familiar with Laravel for backend development
-- Comfortable fixing website bugs, layout issues, and application problems
+- Laravel for backend development
+- fixing website bugs, layout issues, and application problems
 - Focused on building websites and web applications that are simple, fast, and useful
 
 ## Skills
@@ -22,13 +22,15 @@ I am a full stack web developer focused on building clean, responsive, and user-
 - MySQL
 - HTML
 - CSS
-- JavaScript
+- Bootstrap
+- JavaScript With Framwork
 - Responsive Web Design
 - Git and GitHub
 
 ## What I Work On
 
 - Business websites
+- Ecommarce Development
 - Landing pages
 - Portfolio websites
 - Full stack web applications
