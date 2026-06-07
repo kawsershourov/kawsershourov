@@ -106,6 +106,11 @@ class KawserIslamShourov
   <img src="https://komarev.com/ghpvc/?username=kawsershourov&style=flat-square&label=Profile%20Views&color=1a1a1a" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-kawsershourovs-projects.vercel.app/api?username=kawsershourov&show_icons=true&hide_border=true&title_color=1a1a1a&icon_color=1a1a1a&text_color=333333&bg_color=ffffff" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-kawsershourovs-projects.vercel.app/api/top-langs/?username=kawsershourov&layout=compact&hide_border=true&title_color=1a1a1a&text_color=333333&bg_color=ffffff" alt="Top Languages" height="165" />
+</p>
+
 ---
 
 <p align="center">
