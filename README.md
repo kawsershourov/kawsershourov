@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-2ea44f?style=flat-square&logo=git&logoColor=white" alt="Experience" />
+</p>
+
+<p align="center">
   <a href="https://www.kawsershourov.com/">
     <img src="https://img.shields.io/badge/Website-kawsershourov.com-1a1a1a?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
@@ -23,6 +27,8 @@
 class KawserIslamShourov
 {
     public string $role = 'Full Stack Web Developer';
+
+    public string $experience = '3+ years of professional development';
 
     public array $focus = [
         'frontend' => ['HTML', 'CSS', 'Bootstrap', 'JavaScript'],
