@@ -17,13 +17,32 @@
 
 ### About Me
 
-I am a full stack web developer focused on building websites and web applications that are simple, fast, and useful. My work spans WordPress development, Elementor website design, frontend implementation, and backend functionality with PHP and Laravel — along with the everyday craft of customization, troubleshooting, and bug fixing.
+```php
+<?php
 
-- Practical experience across both frontend and backend development
-- Strong foundation in WordPress development, design, and customization
-- Skilled in Elementor website building and responsive layout design
-- Backend development with PHP and Laravel
-- Comfortable resolving layout issues, bugs, and application problems
+class KawserIslamShourov
+{
+    public string $role = 'Full Stack Web Developer';
+
+    public array $focus = [
+        'frontend' => ['HTML', 'CSS', 'Bootstrap', 'JavaScript'],
+        'backend'  => ['PHP', 'Laravel', 'MySQL'],
+        'cms'      => ['WordPress', 'Elementor'],
+    ];
+
+    public array $strengths = [
+        'Clean, responsive, and user-friendly interfaces',
+        'WordPress development, design, and customization',
+        'Backend functionality with PHP and Laravel',
+        'Bug fixing, layout repair, and troubleshooting',
+    ];
+
+    public function philosophy(): string
+    {
+        return 'Build websites that are simple, fast, and useful.';
+    }
+}
+```
 
 ---
 
