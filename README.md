@@ -101,8 +101,9 @@ class KawserIslamShourov
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawsershourov&show_icons=true&hide_border=true&title_color=1a1a1a&icon_color=1a1a1a&text_color=333333&bg_color=ffffff" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsershourov&layout=compact&hide_border=true&title_color=1a1a1a&text_color=333333&bg_color=ffffff" alt="Top Languages" height="165" />
+  <img src="https://img.shields.io/github/followers/kawsershourov?style=flat-square&logo=github&logoColor=white&label=Followers&color=1a1a1a" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/kawsershourov?style=flat-square&logo=github&logoColor=white&label=Stars&color=1a1a1a" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=kawsershourov&style=flat-square&label=Profile%20Views&color=1a1a1a" alt="Profile Views" />
 </p>
 
 ---
