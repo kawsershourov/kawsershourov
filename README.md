@@ -12,13 +12,17 @@
   <a href="https://www.kawsershourov.com/">
     <img src="https://img.shields.io/badge/Website-kawsershourov.com-1a1a1a?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/kawser-islam-shourov/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-  <a href="https://github.com/kawsershourov">
-    <img src="https://img.shields.io/badge/GitHub-kawsershourov-1a1a1a?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   
+  <a href="https://www.linkedin.com/in/kawser-islam-shourov/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/YOUR_UPWORK_ID" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  <a href="https://www.fiverr.com/YOUR_FIVERR_USERNAME" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
+
 </p>
 
 ---
